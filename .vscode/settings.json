@@ -1,0 +1,24 @@
+{
+    
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "tabnine.experimentalAutoImports": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "firefox:PrivateMode",
+
+    //"liveServer.settings.host": "127.0.0.1:3000",
+    //"liveServer.settings.multiRootWorkspaceName": "ABCDepanPC_Interventions",
+    // PHP
+
+    // Controls whether the built-in PHP language suggestions are enabled. The support suggests PHP globals and variables.
+    "php.suggest.basic": true,
+
+    // Enable/disable built-in PHP validation.
+    "php.validate.enable": true,
+
+    // Points to the PHP executable.
+    "php.validate.executablePath": "/usr/bin/php",
+
+    // Whether the linter is run on save or on type.
+    "php.validate.run": "onSave",
+
+}
